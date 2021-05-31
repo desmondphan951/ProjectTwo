@@ -1,6 +1,11 @@
-# ProjectTwo
+# **AlphaGold** - ProjectTwo
+
+## Team Members
 ---
-Group: AlphaGold
+
+* Desmond
+* Kevin
+* Ramesh
 
 ## Summary
 ---
