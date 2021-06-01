@@ -18,7 +18,11 @@ After determining the market fundamentals, industry growth, and market condition
 ## Scope
 ---
 
-GDP analysis, industry analysis, trading strategies, backtesting, reporting
+* GDP analysis, 
+* Industry analysis
+* Trading strategies 
+* Backtesting 
+* Reporting
 
 
 
