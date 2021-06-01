@@ -9,9 +9,9 @@
 
 ## Summary
 ---
-Our project group aims to assist you with building a top performing and diversified portfolio, that allows you to invest in global markets and industries.
+Our group aims to assist you with building a top performing and diversified portfolio, that allows you to invest in global markets and industries.
 
-We will apply our machine learning models to choose the best countries and industries to invest in, based on your preferred investment strategy.
+In this project, our group will investigate the performance of different ML algorithms in obtaining precise nowcasts of the real gross domestic product (GDP) growth, top industry performers in OECD countries within 5 years timeframe, and then evaluate the real-time performance of these algorithms to determine an optimal investment portfolio.  
 
 Providing you with the optimal enter & exit points
 
