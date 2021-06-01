@@ -1,0 +1,314 @@
+{
+    "AFRICA": {
+        "NORTHERN_AFRICA": [
+            "DZA",
+            "EGY",
+            "ESH",
+            "LBY",
+            "MAR",
+            "SDN",
+            "TUN"
+        ],
+        "SUB_SAHARAN_AFRICA": {
+            "EASTERN_AFRICA": [
+                "ATF",
+                "BDI",
+                "COM",
+                "DJI",
+                "ERI",
+                "ETH",
+                "IOT",
+                "KEN",
+                "MDG",
+                "MOZ",
+                "MUS",
+                "MWI",
+                "MYT",
+                "REU",
+                "RWA",
+                "SOM",
+                "SSD",
+                "SYC",
+                "TZA",
+                "UGA",
+                "ZMB",
+                "ZWE"
+            ],
+            "MIDDLE_AFRICA": [
+                "AGO",
+                "CAF",
+                "CMR",
+                "COD",
+                "COG",
+                "GAB",
+                "GNQ",
+                "STP",
+                "TCD"
+            ],
+            "SOUTHERN_AFRICA": [
+                "BWA",
+                "LSO",
+                "NAM",
+                "SWZ",
+                "ZAF"
+            ],
+            "WESTERN_AFRICA": [
+                "BEN",
+                "BFA",
+                "CIV",
+                "CPV",
+                "GHA",
+                "GIN",
+                "GMB",
+                "GNB",
+                "LBR",
+                "MLI",
+                "MRT",
+                "NER",
+                "NGA",
+                "SEN",
+                "SHN",
+                "SLE",
+                "TGO"
+            ]
+        }
+    },
+    "AMERICAS": {
+        "LATIN_AMERICA_AND_THE_CARIBBEAN": {
+            "CARIBBEAN": [
+                "ABW",
+                "AIA",
+                "ATG",
+                "BES",
+                "BHS",
+                "BLM",
+                "BRB",
+                "CUB",
+                "CUW",
+                "CYM",
+                "DMA",
+                "DOM",
+                "GLP",
+                "GRD",
+                "HTI",
+                "JAM",
+                "KNA",
+                "LCA",
+                "MAF",
+                "MSR",
+                "MTQ",
+                "PRI",
+                "SXM",
+                "TCA",
+                "TTO",
+                "VCT",
+                "VGB",
+                "VIR"
+            ],
+            "CENTRAL_AMERICA": [
+                "BLZ",
+                "CRI",
+                "GTM",
+                "HND",
+                "MEX",
+                "NIC",
+                "PAN",
+                "SLV"
+            ],
+            "SOUTH_AMERICA": [
+                "ARG",
+                "BOL",
+                "BRA",
+                "BVT",
+                "CHL",
+                "COL",
+                "ECU",
+                "FLK",
+                "GUF",
+                "GUY",
+                "PER",
+                "PRY",
+                "SGS",
+                "SUR",
+                "URY",
+                "VEN"
+            ]
+        },
+        "NORTHERN_AMERICA": [
+            "BMU",
+            "CAN",
+            "GRL",
+            "SPM",
+            "USA"
+        ]
+    },
+    "ANTARCTICA": [
+        "ATA"
+    ],
+    "ASIA": {
+        "CENTRAL_ASIA": [
+            "KAZ",
+            "KGZ",
+            "TJK",
+            "TKM",
+            "UZB"
+        ],
+        "EASTERN_ASIA": [
+            "CHN",
+            "HKG",
+            "JPN",
+            "KOR",
+            "MAC",
+            "MNG",
+            "PRK"
+        ],
+        "SOUTHERN_ASIA": [
+            "AFG",
+            "BGD",
+            "BTN",
+            "IND",
+            "IRN",
+            "LKA",
+            "MDV",
+            "NPL",
+            "PAK"
+        ],
+        "SOUTH_EASTERN_ASIA": [
+            "BRN",
+            "IDN",
+            "KHM",
+            "LAO",
+            "MMR",
+            "MYS",
+            "PHL",
+            "SGP",
+            "THA",
+            "TLS",
+            "VNM"
+        ],
+        "WESTERN_ASIA": [
+            "ARE",
+            "ARM",
+            "AZE",
+            "BHR",
+            "CYP",
+            "GEO",
+            "IRQ",
+            "ISR",
+            "JOR",
+            "KWT",
+            "LBN",
+            "OMN",
+            "PSE",
+            "QAT",
+            "SAU",
+            "SYR",
+            "TUR",
+            "YEM"
+        ]
+    },
+    "EUROPE": {
+        "EASTERN_EUROPE": [
+            "BGR",
+            "BLR",
+            "CZE",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK",
+            "UKR"
+        ],
+        "NORTHERN_EUROPE": [
+            "ALA",
+            {
+                "CHANNEL_ISLANDS": [
+                    "GGY",
+                    "JEY"
+                ]
+            },
+            "DNK",
+            "EST",
+            "FIN",
+            "FRO",
+            "GBR",
+            "IMN",
+            "IRL",
+            "ISL",
+            "LTU",
+            "LVA",
+            "NOR",
+            "SJM",
+            "SWE"
+        ],
+        "SOUTHERN_EUROPE": [
+            "ALB",
+            "AND",
+            "BIH",
+            "ESP",
+            "GIB",
+            "GRC",
+            "HRV",
+            "ITA",
+            "MKD",
+            "MLT",
+            "MNE",
+            "PRT",
+            "SMR",
+            "SRB",
+            "SVN",
+            "VAT"
+        ],
+        "WESTERN_EUROPE": [
+            "AUT",
+            "BEL",
+            "CHE",
+            "DEU",
+            "FRA",
+            "LIE",
+            "LUX",
+            "MCO",
+            "NLD"
+        ]
+    },
+    "OCEANIA": {
+        "AUSTRALIA_AND_NEW_ZEALAND": [
+            "AUS",
+            "CCK",
+            "CXR",
+            "HMD",
+            "NFK",
+            "NZL"
+        ],
+        "MELANESIA": [
+            "FJI",
+            "NCL",
+            "PNG",
+            "SLB",
+            "VUT"
+        ],
+        "MICRONESIA": [
+            "FSM",
+            "GUM",
+            "KIR",
+            "MHL",
+            "MNP",
+            "NRU",
+            "PLW",
+            "UMI"
+        ],
+        "POLYNESIA": [
+            "ASM",
+            "COK",
+            "NIU",
+            "PCN",
+            "PYF",
+            "TKL",
+            "TON",
+            "TUV",
+            "WLF",
+            "WSM"
+        ]
+    }
+}
