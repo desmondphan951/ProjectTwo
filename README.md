@@ -19,7 +19,7 @@ After determining the market fundamentals, industry growth, and market condition
 ---
 
 * GDP analysis, 
-* Industry analysis
+* Industry analysis ( descoped due to time)
 * Trading strategies 
 * Backtesting 
 * Reporting
