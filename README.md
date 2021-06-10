@@ -48,13 +48,13 @@ The data was provided by OECD and covers Australia from 2000 quarter 1 till pres
 
 
 
-![Correlation](images\gdp_factors_correlation.png) 
+![Correlation](/images/gdp_factors_correlation.png) 
 
-![R2](images\gdp_indicators_r2.png)
+![R2](/images/gdp_indicators_r2.png)
 
-![Confidence_Intervals](images\gdp_confidence_intervals.png)
+![Confidence_Intervals](/images/gdp_confidence_intervals.png)
 
-![Nowcast](images\gdp_nowcast.png)
+![Nowcast](/images/gdp_nowcast.png)
 
 ## Industry Analysis
 ---
@@ -62,7 +62,7 @@ We then proceeded to get the top 50 stocks from the ASX depending on overall mar
 
 This involved in-depth analysis of market metadata and indicators to look at each industry's contribution to the overall GDP.
 
-![Industry_breakdown](images\industry_breakdown.png)
+![Industry_breakdown](/images/industry_breakdown.png)
 ## Portfolio Creation
 ---
 At this stage we went ahead and further narrowed down to an 8 stock portfolio.
@@ -90,8 +90,8 @@ After the user has been built a portfolio of stocks we then provide the trading 
 ### MACD Oscillator  
 The Moving Average Convergence/Divergence strategy is rather popular and widely used as a technical indicator for trading. The strategy features a MACD line which is calculated by the difference between a 12-day (fast) and 26-day (slow) exponentially-weighted moving average. This is coupled with a Signal line which is a 9-day moving average of the MACD line, and a Histogram that represents the difference between the two lines.  
 
-![MACD_plot](images\macd_signals_plot.png)
+![MACD_plot](/images/macd_signals_plot.png)
 
 The buy/sell signals are then based on the crossovers between the MACD and Signal line which we can then feed into our backtester. Finally computing a total portfolio profit of $547,148.55 from 6 months of trading and an initial investment of $100,000.
 
-![Heatmap](images\macd_heatmap.png)
+![Heatmap](/images/macd_heatmap.png)
