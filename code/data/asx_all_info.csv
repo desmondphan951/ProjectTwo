@@ -1,0 +1,278 @@
+﻿Code,Company,Market Cap,Sector
+ASX:CBA,Commonwealth Bank,180.83B,Financials
+ASX:BHP,BHP Group Limited,143.91B,Materials
+ASX:CSL,CSL,133.16B,Health Care
+ASX:WBC,Westpac Banking Corp,97.69B,Financials
+ASX:NAB,National Australia Bank,87.88B,Financials
+ASX:ANZ,ANZ Banking Group,82.01B,Financials
+ASX:FMG,Fortescue Metals Group,69.74B,Materials
+ASX:WES,Wesfarmers Limited,62.09B,Consumer Discretionary
+ASX:MQG,Macquarie Group,55.54B,Financials
+ASX:WOW,Woolworths Group,55.19B,Consumer Staples
+ASX:RIO,Rio Tinto,46.52B,Materials
+ASX:TLS,Telstra,42.46B,Communication Services
+ASX:TCL,Transurban Group,39.32B,Industrials
+ASX:GMG,Goodman Group,37.93B,Real Estate
+ASX:APT,Afterpay Limited,27.91B,Information Technology
+ASX:ALL,Aristocrat Leisure,25.89B,Consumer Discretionary
+ASX:WPL,Woodside Petroleum Ltd,23.14B,Energy
+ASX:COL,Coles Group Limited,22.76B,Consumer Staples
+ASX:NCM,Newcrest Mining Limited,22.56B,Materials
+ASX:REA,REA Group Ltd,21.83B,Communication Services
+ASX:XRO,Xero Limited,19.25B,Information Technology
+ASX:JHX,James Hardie,19.15B,Materials
+ASX:SHL,Sonic Healthcare Limited,16.86B,Health Care
+ASX:QBE,QBE Insurance Group,16.67B,Financials
+ASX:SYD,Sydney Airport Limited,16.46B,Industrials
+ASX:STO,Santos,16.04B,Energy
+ASX:BXB,Brambles Limited,15.97B,Industrials
+ASX:FPH,Fisher & Paykel Healthcare,15.91B,Health Care
+ASX:COH,Cochlear,15.13B,Health Care
+ASX:REH,Reece Limited,14.75B,Industrials
+ASX:ASX,ASX Limited,14.6B,Financials
+ASX:SCG,Scentre Group Limited,14.48B,Real Estate
+ASX:SUN,Suncorp Group,14.42B,Financials
+ASX:RHC,Ramsay Health Care Limited,14.21B,Health Care
+ASX:S32,South32,14.11B,Materials
+ASX:AMC,Amcor,13.08B,Materials
+ASX:IAG,Insurance Australia Group,12.92B,Financials
+ASX:NST,Northern Star Resources,12.72B,Materials
+ASX:MGR,Mirvac Group,11.58B,Real Estate
+ASX:DXS,Dexus,11.42B,Real Estate
+ASX:BSL,BlueScope Steel Limited,11.32B,Materials
+ASX:SGP,Stockland,11.32B,Real Estate
+ASX:TAH,Tabcorp Holdings,11.26B,Consumer Discretionary
+ASX:APA,APA Group,10.93B,Utilities
+ASX:SEK,Seek,10.74B,Communication Services
+ASX:RMD,ResMed Inc,10.64B,Health Care
+ASX:AIA,Auckland International Airport Limited,10.5B,Industrials
+ASX:DMP,Domino's Pizza,10.03B,Consumer Discretionary
+ASX:TPG,TPG Telecom Limited,9.97B,Communication Services
+ASX:CPU,Computershare Limited,9.73B,Information Technology
+ASX:WTC,WiseTech Global Limited,9.56B,Information Technology
+ASX:AFI,Australian Foundation Investment Company,9.27B,Financials
+ASX:MIN,Mineral Resources Limited,9.1B,Materials
+ASX:MFG,Magellan Financial Group,9.09B,Financials
+ASX:GPT,The GPT Group,9.07B,Real Estate
+ASX:QAN,Qantas Airways,9.02B,Industrials
+ASX:LLC,Lendlease Group,8.66B,Real Estate
+ASX:MPL,Medibank Private Limited,8.65B,Financials
+ASX:VAS,Vanguard Australian Shares Index ETF,8.64B,Financials
+ASX:TWE,Treasury Wine Estates,8.63B,Consumer Staples
+ASX:EVN,Evolution Mining Limited,8.61B,Materials
+ASX:MCY,Mercury NZ Limited,8.58B,Utilities
+ASX:OSH,Oil Search,8.58B,Energy
+ASX:CWN,Crown Resorts Limited,8.46B,Consumer Discretionary
+ASX:ORG,Origin Energy,8.4B,Utilities
+ASX:OZL,OZ Minerals,8.35B,Materials
+ASX:BLD,Boral,8.28B,Materials
+ASX:SPK,Spark New Zealand Limited,8.12B,Communication Services
+ASX:SVW,Seven Group Holdings,7.53B,Industrials
+ASX:VCX,Vicinity Centres,7.47B,Real Estate
+ASX:SOL,Soul Pattinson WH,7.27B,Energy
+ASX:ALD,Ampol Limited,7.1B,Energy
+ASX:AZJ,Aurizon Holdings,6.98B,Industrials
+ASX:CHC,Charter Hall Group,6.97B,Real Estate
+ASX:CIM,CIMIC Group Limited,6.83B,Industrials
+ASX:AST,AusNet Services,6.77B,Utilities
+ASX:HVN,Harvey Norman,6.7B,Consumer Discretionary
+ASX:WOR,Worley Limited,6.42B,Energy
+ASX:ARG,Argo Investments,6.34B,Financials
+ASX:MEZ,Meridian Energy Limited,6.25B,Utilities
+ASX:IEL,IDP Education Limited,6.14B,Consumer Discretionary
+ASX:ALX,Atlas Arteria,6.09B,Industrials
+ASX:FBU,Fletcher Building Limited,6.03B,Materials
+ASX:ALQ,ALS,6.02B,Industrials
+ASX:QUB,Qube Holdings,5.99B,Industrials
+ASX:BEN,Bendigo and Adelaide Bank Limited,5.89B,Financials
+ASX:BOQ,Bank of Queensland,5.76B,Financials
+ASX:ORI,Orica,5.75B,Materials
+ASX:IGO,IGO Limited,5.69B,Materials
+ASX:AGL,AGL Energy Limited,5.66B,Utilities
+ASX:JBH,JB Hi-Fi,5.55B,Consumer Discretionary
+ASX:CWY,Cleanaway Waste Management,5.48B,Industrials
+ASX:IFT,Infratil Limited,5.36B,Utilities
+ASX:ANN,Ansell Limited,5.17B,Health Care
+ASX:NEC,Nine Entertainment Co.,5.17B,Communication Services
+ASX:EBO,EBOS Group,5.17B,Health Care
+ASX:CAR,Carsales.com,5.14B,Communication Services
+ASX:PME,Pro Medicus Limited,5.1B,Health Care
+ASX:AWC,Alumina Limited,5.01B,Materials
+ASX:ALU,Altium,4.96B,Information Technology
+ASX:NXT,NEXTDC,4.95B,Information Technology
+ASX:LYC,Lynas Rare Earths Limited,4.76B,Materials
+ASX:STW,SPDR S&P/ASX 200 Fund,4.68B,Financials
+ASX:IPL,Incitec Pivot Limited,4.6B,Materials
+ASX:PMV,Premier Investments,4.34B,Consumer Discretionary
+ASX:A2M,The A2 Milk Company,4.33B,Consumer Staples
+ASX:IVV,iShares S&P 500 ETF,4.29B,Financials
+ASX:RWC,Reliance Worldwide Corporation,4.25B,Industrials
+ASX:IOZ,iShares CORE S&P/ASX 200 ETF,4.16B,Financials
+ASX:APE,Eagers Automotive Limited,4.05B,Consumer Discretionary
+ASX:AMP,AMP Limited,4.04B,Financials
+ASX:DOW,Downer EDI,4B,Industrials
+ASX:BRG,Breville Group,3.98B,Consumer Discretionary
+ASX:Z1P,Zip Co Limited,3.87B,Financials
+ASX:PLS,Pilbara Minerals,3.87B,Materials
+ASX:SKI,Spark Infrastructure,3.83B,Utilities
+ASX:MTS,Metcash Limited,3.72B,Consumer Staples
+ASX:NWL,Netwealth Group,3.7B,Financials
+ASX:SGR,The Star Entertainment Group Limited,3.7B,Consumer Discretionary
+ASX:CGF,Challenger Limited,3.66B,Financials
+ASX:ARB,ARB Corporation,3.63B,Consumer Discretionary
+ASX:SDF,Steadfast Group Limited,3.5B,Financials
+ASX:VUK,Virgin Money UK PLC,3.43B,Financials
+ASX:SAS,Sky and Space Company Ltd,3.42B,Communication Services
+ASX:GNE,Genesis Energy,3.41B,Utilities
+ASX:VOC,Vocus Group,3.39B,Communication Services
+ASX:MLT,Milton Corporation Limited,3.35B,Financials
+ASX:CIA,Champion Iron,3.33B,Materials
+ASX:VEA,Viva Energy Group,3.31B,Energy
+ASX:CDA,Codan Limited,3.29B,Information Technology
+ASX:ILU,Iluka Resources,3.28B,Materials
+ASX:SGM,Sims Limited,3.26B,Materials
+ASX:VGS,Vanguard MSCI Index International Shares ETF,3.21B,Financials
+ASX:BKW,Brickworks Limited,3.16B,Materials
+ASX:BPT,Beach Energy,3.15B,Energy
+ASX:CHN,Chalice Mining Limited,3.1B,Materials
+ASX:GOZ,Growthpoint Properties Australia,3.05B,Real Estate
+ASX:FLT,Flight Centre Travel,3.03B,Consumer Discretionary
+ASX:SUL,Super Retail Group,3.03B,Consumer Discretionary
+ASX:CLW,Charter Hall Long WALE REIT,2.99B,Real Estate
+ASX:CSR,CSR,2.92B,Materials
+ASX:ORA,Orora Group Limited,2.89B,Materials
+ASX:NHF,NIB Holdings,2.89B,Financials
+ASX:DHG,Domain Holdings Australia Limited,2.89B,Communication Services
+ASX:CTD,Corporate Travel Management Limited,2.85B,Consumer Discretionary
+ASX:MGF,Magellan Global Fund,2.83B,Unclassified
+ASX:TLT,Tilt Renewables Limited,2.82B,Utilities
+ASX:TNE,Technology One,2.82B,Information Technology
+ASX:PTM,Platinum Asset Management,2.8B,Financials
+ASX:BWP,BWP Trust,2.79B,Real Estate
+ASX:PDL,Pendal Group Limited,2.78B,Financials
+ASX:BAP,Bapcor Limited,2.78B,Consumer Discretionary
+ASX:SNZ,Summerset Group Holdings Limited,2.76B,Health Care
+ASX:YAL,Yancoal Australia,2.75B,Energy
+ASX:LNK,Link Administration Holdings,2.73B,Information Technology
+ASX:SCP,SCA Property Group,2.73B,Real Estate
+ASX:HLS,Healius Limited,2.71B,Health Care
+ASX:IFL,IOOF Holdings,2.69B,Financials
+ASX:CNU,Chorus Limited,2.69B,Communication Services
+ASX:NIC,Nickel Mines Limited,2.62B,Materials
+ASX:ABP,Abacus Property Group,2.53B,Real Estate
+ASX:VTS,Vanguard US Total Market Shares Index ETF,2.48B,Financials
+ASX:ZIM,Zimplats Holdings,2.45B,Materials
+ASX:SKC,SkyCity Entertainment Group Limited,2.42B,Consumer Discretionary
+ASX:MP1,Megaport Limited,2.39B,Information Technology
+ASX:ORE,Orocobre Limited,2.37B,Materials
+ASX:CMW,Cromwell Property Group,2.36B,Real Estate
+ASX:LFS,Latitude Financial Services Group Limited,2.35B,Financials
+ASX:PBH,Pointsbet Holdings Limited,2.34B,Consumer Discretionary
+ASX:LFG,Liberty Financial Group,2.26B,Financials
+ASX:DRR,Deterra Royalties Limited,2.26B,Materials
+ASX:BIN,Bingo Industries Limited,2.25B,Industrials
+ASX:VEU,Vanguard All-World Ex-US Shares Index ETF,2.21B,Financials
+ASX:IOO,iShares Global 100 ETF,2.21B,Financials
+ASX:CQR,Charter Hall Retail REIT,2.19B,Real Estate
+ASX:PPT,Perpetual Limited,2.18B,Financials
+ASX:SLK,SeaLink Travel Group Limited,2.16B,Consumer Discretionary
+ASX:NSR,National Storage REIT,2.12B,Real Estate
+ASX:UWL,Uniti Group Limited,2.08B,Communication Services
+ASX:WPR,Waypoint REIT Limited,2.06B,Real Estate
+ASX:CIP,Centuria Industrial REIT,2.06B,Real Estate
+ASX:IRE,Iress Limited,2.06B,Information Technology
+ASX:EVT,Event Hospitality & Entertainment,2.06B,Communication Services
+ASX:ABC,Adbri Limited,2.05B,Materials
+ASX:GXY,Galaxy Resources Limited,2.02B,Materials
+ASX:RRL,Regis Resources,2.01B,Materials
+ASX:CCP,Credit Corp Group,2B,Financials
+ASX:PNI,Pinnacle Investment Management Group,1.96B,Financials
+ASX:INA,Ingenia Communities Group,1.94B,Real Estate
+ASX:WAM,WAM Capital,1.92B,Financials
+ASX:WEB,Webjet,1.91B,Consumer Discretionary
+ASX:DDR,Dicker Data Limited,1.89B,Information Technology
+ASX:DEG,De Grey Mining Limited,1.88B,Materials
+ASX:NUF,Nufarm,1.88B,Materials
+ASX:HUB,HUB24 Limited,1.88B,Financials
+ASX:VHY,Vanguard Australian Shares High Yield ETF,1.85B,Financials
+ASX:WHC,Whitehaven Coal,1.83B,Energy
+ASX:IMU,Imugene Limited,1.83B,Health Care
+ASX:TYR,Tyro Payments Limited,1.8B,Information Technology
+ASX:IAF,iShares CORE Composite Bond ETF,1.78B,Financials
+ASX:BGA,Bega Cheese Ltd,1.77B,Consumer Staples
+ASX:PPH,Pushpay Holdings Limited,1.77B,Information Technology
+ASX:CEN,Contact Energy Limited,1.76B,Utilities
+ASX:ELD,Elders Limited,1.74B,Consumer Staples
+ASX:AIZ,Air New Zealand,1.74B,Industrials
+ASX:PNV,Polynovo Limited,1.73B,Health Care
+ASX:AVN,Aventus Group,1.73B,Real Estate
+ASX:PRU,Perseus Mining,1.65B,Materials
+ASX:CNI,Centuria Capital Group,1.61B,Real Estate
+ASX:APX,Appen Limited,1.6B,Information Technology
+ASX:JHG,Janus Henderson Group plc,1.59B,Financials
+ASX:IVC,InvoCare Limited,1.59B,Consumer Discretionary
+ASX:NAN,Nanosonics,1.58B,Health Care
+ASX:MVW,Vaneck Vectors Australian Equal Weight ETF,1.58B,Financials
+ASX:SLR,Silver Lake Resources,1.56B,Materials
+ASX:MFF,MFF Capital Investments,1.54B,Financials
+ASX:LOV,Lovisa Holdings Limited,1.54B,Consumer Discretionary
+ASX:RBD,Restaurant Brands New Zealand,1.54B,Consumer Discretionary
+ASX:AX1,Accent Group Limited,1.52B,Consumer Discretionary
+ASX:LSF,L1 Long Short Fund Limited,1.5B,Financials
+ASX:PDN,Paladin Energy Limited,1.5B,Energy
+ASX:AUB,AUB Group Limited,1.5B,Financials
+ASX:RMS,Ramelius Resources Limited,1.49B,Materials
+ASX:MXT,MCP Master Income Trust,1.49B,Financials
+ASX:HTA,Hutchison Telecommunications,1.49B,Communication Services
+ASX:IPH,IPH Limited,1.47B,Industrials
+ASX:CKF,Collins Foods Limited,1.46B,Consumer Discretionary
+ASX:LIC,Lifestyle Communities,1.45B,Real Estate
+ASX:HMC,Home Consortium,1.44B,Real Estate
+ASX:NHC,New Hope Corp,1.42B,Energy
+ASX:A200,BetaShares Australia 200 ETF,1.4B,Financials
+ASX:ING,Inghams Group Limited,1.39B,Consumer Staples
+ASX:CGC,Costa Group Holdings Limited,1.38B,Consumer Staples
+ASX:CUV,Clinuvel Pharmaceuticals,1.38B,Health Care
+ASX:UMG,United Malt Group Limited,1.35B,Consumer Staples
+ASX:BKL,Blackmores Limited,1.33B,Consumer Staples
+ASX:PPK,PPK Group Limited,1.31B,Industrials
+ASX:TPW,Temple & Webster Group,1.31B,Consumer Discretionary
+ASX:CRN,Coronado Global Resources Inc.,1.31B,Materials
+ASX:OCL,Objective Corporation,1.31B,Information Technology
+ASX:SBM,St Barbara Limited,1.31B,Materials
+ASX:TLX,Telix Pharmaceuticals Limited,1.3B,Health Care
+ASX:PGH,Pact Group Holdings,1.28B,Materials
+ASX:CQE,Charter Hall Social Infrastructure REIT,1.28B,Real Estate
+ASX:ZEL,Z Energy Limited,1.28B,Energy
+ASX:WLE,WAM Leaders Limited,1.27B,Financials
+ASX:HSN,Hansen Technologies Limited,1.27B,Information Technology
+ASX:MGH,MAAS Group Holdings Limited,1.26B,Industrials
+ASX:GOR,Gold Road Resources,1.26B,Materials
+ASX:SFR,Sandfire Resources Limited,1.26B,Materials
+ASX:EML,EML Payments Limited,1.26B,Information Technology
+ASX:COF,Centuria Office Reit,1.22B,Real Estate
+ASX:ARF,Arena REIT,1.2B,Real Estate
+ASX:AUI,Australian United Investment Company,1.2B,Financials
+ASX:GNC,GrainCorp,1.18B,Consumer Staples
+ASX:GMA,Genworth Mortgage Insurance,1.18B,Financials
+ASX:ISX,iSignthis Limited,1.18B,Information Technology
+ASX:PPM,Pepper Money Limited,1.17B,Financials
+ASX:GUD,GUD Holdings Limited,1.17B,Consumer Discretionary
+ASX:URW,Unibail-Rodamco-Westfield,1.15B,Real Estate
+ASX:MSB,Mesoblast,1.15B,Health Care
+ASX:FCL,Fineos Corporation Holdings,1.15B,Information Technology
+ASX:BKI,BKI Investment Company,1.13B,Financials
+ASX:NWS,News Corporation,1.13B,Communication Services
+ASX:LTR,Liontown Resources,1.11B,Materials
+ASX:CCX,City Chic Collective Limited,1.1B,Consumer Discretionary
+ASX:PSI,PSC Insurance Group,1.09B,Financials
+ASX:KGN,Kogan.com Ltd,1.08B,Consumer Discretionary
+ASX:KMD,Kathmandu Holdings Limited,1.06B,Consumer Discretionary
+ASX:MAQ,Macquarie Telecom Group,1.06B,Communication Services
+ASX:DBI,Dalrymple Bay Infrastructure Limited,1.06B,Industrials
+ASX:HGH,Heartland Group Holdings,1.05B,Financials
+ASX:OBL,Omni Bridgeway Limited,1.04B,Financials
+ASX:DUI,Diversified United Investment Limited,1.02B,Financials
+ASX:IDX,Integral Diagnostics Limited,1.02B,Health Care
+ASX:OML,oOh!media Limited,1.01B,Communication Services
+ASX:RMC,Resimac Group Limited,1.01B,Financials
