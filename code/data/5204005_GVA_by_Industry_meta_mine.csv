@@ -1,0 +1,155 @@
+﻿Data Item Description,Series Type,Series ID,Series Start,Series End,No. Obs.,Unit,Data Type,Freq.,Collection Month
+"Agriculture, forestry and fishing (A) ;  Agriculture: Chain volume measures ;",Original,A3347243W,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Agriculture, forestry and fishing (A) ;  Forestry and fishing: Chain volume measures ;",Original,A3347244X,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Agriculture, forestry and fishing (A) ;  Chain volume measures ;",Original,A3347242V,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Coal mining: Chain volume measures ;,Original,A3605348C,Jun-86,Jun-20,35,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Oil and gas extraction: Chain volume measures ;,Original,A3605349F,Jun-86,Jun-20,35,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Iron ore mining: Chain volume measures ;,Original,A82187589L,Jun-86,Jun-20,35,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Other mining: Chain volume measures ;,Original,A82187590W,Jun-86,Jun-20,35,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Mining (excluding exploration and mining support services): Chain volume measures ;,Original,A3347283R,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Exploration and mining support services: Chain volume measures ;,Original,A3347282L,Jun-86,Jun-20,35,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Chain volume measures ;,Original,A3347281K,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Manufacturing (C) ;  Food, beverage and tobacco products: Chain volume measures ;",Original,A3347319F,Jun-78,Jun-20,43,$ Millions,DERIVED,Annual,6
+"Manufacturing (C) ;  Petroleum, coal, chemical and rubber products: Chain volume measures ;",Original,A3347323W,Jun-78,Jun-20,43,$ Millions,DERIVED,Annual,6
+Manufacturing (C) ;  Metal products: Chain volume measures ;,Original,A3347320R,Jun-78,Jun-20,43,$ Millions,DERIVED,Annual,6
+Manufacturing (C) ;  Machinery and equipment: Chain volume measures ;,Original,A3347321T,Jun-78,Jun-20,43,$ Millions,DERIVED,Annual,6
+Manufacturing (C) ;  Other manufacturing: Chain volume measures ;,Original,A85232076T,Jun-87,Jun-20,34,$ Millions,DERIVED,Annual,6
+Manufacturing (C) ;  Chain volume measures ;,Original,A3347318C,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Electricity: Chain volume measures ;",Original,A3348083R,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Gas: Chain volume measures ;",Original,A3348084T,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Water supply and waste services: Chain volume measures ;",Original,A3348085V,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Chain volume measures ;",Original,A3348082L,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Construction (E) ;  Building construction: Chain volume measures ;,Original,A85232077V,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+Construction (E) ;  Heavy and civil engineering construction: Chain volume measures ;,Original,A85232078W,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+Construction (E) ;  Construction services: Chain volume measures ;,Original,A85232079X,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+Construction (E) ;  Chain volume measures ;,Original,A3348119F,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Wholesale trade (F) ;  Chain volume measures ;,Original,A3348153K,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Retail trade (G) ;  Chain volume measures ;,Original,A3348187J,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Accommodation and food services (H) ;  Chain volume measures ;,Original,A3348221A,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Road: Chain volume measures ;",Original,A3348258F,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Air and space transport: Chain volume measures ;",Original,A3348256A,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Rail, pipeline and other transport: Chain volume measures ;",Original,A3348257C,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Transport, postal and storage services: Chain volume measures ;",Original,A3348260T,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Chain volume measures ;",Original,A3348255X,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Information media and telecommunications (J) ;  Telecommunications services: Chain volume measures ;,Original,A85232227R,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+Information media and telecommunications (J) ;  Other information and media services: Chain volume measures ;,Original,A85232228T,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+Information media and telecommunications (J) ;  Chain volume measures ;,Original,A3348294R,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Financial and insurance services (K) ;  Finance: Chain volume measures ;,Original,A85232229V,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+Financial and insurance services (K) ;  Other financial and insurance services: Chain volume measures ;,Original,A85232230C,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+Financial and insurance services (K) ;  Chain volume measures ;,Original,A3348328A,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Rental and hiring services: Chain volume measures ;",Original,A85232231F,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Property operators and real estate services: Chain volume measures ;",Original,A85232232J,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Chain volume measures ;",Original,A3348362F,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Computer system design and related services: Chain volume measures ;",Original,A85232233K,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Other professional, scientific and technical services: Chain volume measures ;",Original,A85232234L,Jun-95,Jun-20,26,$ Millions,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Chain volume measures ;",Original,A3348396C,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Administrative and support services (N) ;  Chain volume measures ;,Original,A3348430W,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Public administration and safety (O) ;  Chain volume measures ;,Original,A3346692K,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Education and training (P) ;  Chain volume measures ;,Original,A3346726W,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Health care and social assistance (Q) ;  Chain volume measures ;,Original,A3346760A,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Arts and recreation services (R) ;  Chain volume measures ;,Original,A3346796C,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Other services (S) ;  Chain volume measures ;,Original,A3346831X,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Ownership of dwellings ;  Chain volume measures ;,Original,A2520658X,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Gross value added at basic prices: Chain volume measures ;,Original,A2420955W,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Taxes less subsidies on products: Chain volume measures ;,Original,A2420956X,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Statistical discrepancy (P): Chain volume measures ;,Original,A2420957A,Jun-75,Jun-20,46,$ Millions,DERIVED,Annual,6
+Gross domestic product: Chain volume measures ;,Original,A2420912W,Jun-60,Jun-20,61,$ Millions,DERIVED,Annual,6
+"Agriculture, forestry and fishing (A) ;  Agriculture: Chain volume measures - Percentage changes ;",Original,A3347931A,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Agriculture, forestry and fishing (A) ;  Forestry and fishing: Chain volume measures - Percentage changes ;",Original,A3347932C,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Agriculture, forestry and fishing (A) ;  Chain volume measures - Percentage changes ;",Original,A3347930X,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Mining (B) ;  Coal mining: Chain volume measures - Percentage changes ;,Original,A3605351T,Jun-87,Jun-20,34,Percent,DERIVED,Annual,6
+Mining (B) ;  Oil and gas extraction: Chain volume measures - Percentage changes ;,Original,A3605352V,Jun-87,Jun-20,34,Percent,DERIVED,Annual,6
+Mining (B) ;  Iron ore mining: Chain volume measures - Percentage changes ;,Original,A82187587J,Jun-87,Jun-20,34,Percent,DERIVED,Annual,6
+Mining (B) ;  Other mining: Chain volume measures - Percentage changes ;,Original,A82187588K,Jun-87,Jun-20,34,Percent,DERIVED,Annual,6
+Mining (B) ;  Mining (excluding exploration and mining support services): Chain volume measures - Percentage changes ;,Original,A3347935K,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Mining (B) ;  Exploration and mining support services: Chain volume measures - Percentage changes ;,Original,A3347934J,Jun-87,Jun-20,34,Percent,DERIVED,Annual,6
+Mining (B) ;  Chain volume measures - Percentage changes ;,Original,A3347933F,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Manufacturing (C) ;  Food, beverage and tobacco products: Chain volume measures - Percentage changes ;",Original,A3347937R,Jun-79,Jun-20,42,Percent,DERIVED,Annual,6
+"Manufacturing (C) ;  Petroleum, coal, chemical and rubber products: Chain volume measures - Percentage changes ;",Original,A3347941F,Jun-79,Jun-20,42,Percent,DERIVED,Annual,6
+Manufacturing (C) ;  Metal products: Chain volume measures - Percentage changes ;,Original,A3347938T,Jun-79,Jun-20,42,Percent,DERIVED,Annual,6
+Manufacturing (C) ;  Machinery and equipment: Chain volume measures - Percentage changes ;,Original,A3347939V,Jun-79,Jun-20,42,Percent,DERIVED,Annual,6
+Manufacturing (C) ;  Other manufacturing: Chain volume measures - Percentage changes ;,Original,A85232235R,Jun-88,Jun-20,33,Percent,DERIVED,Annual,6
+Manufacturing (C) ;  Chain volume measures - Percentage changes ;,Original,A3347936L,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Electricity: Chain volume measures - Percentage changes ;",Original,A3347946T,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Gas: Chain volume measures - Percentage changes ;",Original,A3347947V,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Water supply and waste services: Chain volume measures - Percentage changes ;",Original,A3347948W,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Chain volume measures - Percentage changes ;",Original,A3347945R,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Construction (E) ;  Building construction: Chain volume measures - Percentage changes ;,Original,A85232236T,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+Construction (E) ;  Heavy and civil engineering construction: Chain volume measures - Percentage changes ;,Original,A85232237V,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+Construction (E) ;  Construction services: Chain volume measures - Percentage changes ;,Original,A85232238W,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+Construction (E) ;  Chain volume measures - Percentage changes ;,Original,A3347949X,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Wholesale trade (F) ;  Chain volume measures - Percentage changes ;,Original,A3347950J,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Retail trade (G) ;  Chain volume measures - Percentage changes ;,Original,A3347951K,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Accommodation and food services (H) ;  Chain volume measures - Percentage changes ;,Original,A3347952L,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Road: Chain volume measures - Percentage changes ;",Original,A3347956W,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Air and space transport: Chain volume measures - Percentage changes ;",Original,A3347954T,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Rail, pipeline and other transport: Chain volume measures - Percentage changes ;",Original,A3347955V,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Transport, postal and storage services: Chain volume measures - Percentage changes ;",Original,A3347957X,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Chain volume measures - Percentage changes ;",Original,A3347953R,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Information media and telecommunications (J) ;  Telecommunications services: Chain volume measures - Percentage changes ;,Original,A85232239X,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+Information media and telecommunications (J) ;  Other information and media services: Chain volume measures - Percentage changes ;,Original,A85232240J,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+Information media and telecommunications (J) ;  Chain volume measures - Percentage changes ;,Original,A3347958A,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Financial and insurance services (K) ;  Finance: Chain volume measures - Percentage changes ;,Original,A85232241K,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+Financial and insurance services (K) ;  Other financial and insurance services: Chain volume measures - Percentage changes ;,Original,A85232242L,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+Financial and insurance services (K) ;  Chain volume measures - Percentage changes ;,Original,A3347959C,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Rental and hiring services: Chain volume measures - Percentage changes ;",Original,A85232243R,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Property operators and real estate services: Chain volume measures - Percentage changes ;",Original,A85232244T,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Chain volume measures - Percentage changes ;",Original,A3347960L,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Computer system design and related services: Chain volume measures - Percentage changes ;",Original,A85232245V,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Other professional, scientific and technical services: Chain volume measures - Percentage changes ;",Original,A85232246W,Jun-96,Jun-20,25,Percent,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Chain volume measures - Percentage changes ;",Original,A3347961R,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Administrative and support services (N) ;  Chain volume measures - Percentage changes ;,Original,A3347962T,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Public administration and safety (O) ;  Chain volume measures - Percentage changes ;,Original,A3347963V,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Education and training (P) ;  Chain volume measures - Percentage changes ;,Original,A3347964W,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Health care and social assistance (Q) ;  Chain volume measures - Percentage changes ;,Original,A3347965X,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Arts and recreation services (R) ;  Chain volume measures - Percentage changes ;,Original,A3347966A,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Other services (S) ;  Chain volume measures - Percentage changes ;,Original,A3347967C,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Ownership of dwellings ;  Chain volume measures - Percentage changes ;,Original,A2520659A,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Gross value added at basic prices: Chain volume measures - Percentage changes ;,Original,A2420996T,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Taxes less subsidies on products: Chain volume measures - Percentage changes ;,Original,A2420997V,Jun-76,Jun-20,45,Percent,DERIVED,Annual,6
+Gross domestic product: Chain volume measures - Percentage changes ;,Original,A2420896J,Jun-61,Jun-20,60,Percent,DERIVED,Annual,6
+"Agriculture, forestry and fishing (A) ;  Current prices ;",Original,A3347998V,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Mining (B) ;  Current prices ;,Original,A3348041T,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Manufacturing (C) ;  Current prices ;,Original,A3346511L,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Current prices ;",Original,A3346551F,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Construction (E) ;  Current prices ;,Original,A3346591X,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Wholesale trade (F) ;  Current prices ;,Original,A3346631F,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Retail trade (G) ;  Current prices ;,Original,A3347797X,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Accommodation and food services (H) ;  Current prices ;,Original,A3347837F,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Current prices ;",Original,A3347877X,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Information media and telecommunications (J) ;  Current prices ;,Original,A3346642L,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Financial and insurance services (K) ;  Current prices ;,Original,A3347354L,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Current prices ;",Original,A3347394F,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Current prices ;",Original,A3347434L,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Administrative and support services (N) ;  Current prices ;,Original,A3347630W,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Public administration and safety (O) ;  Current prices ;,Original,A3347670R,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Education and training (P) ;  Current prices ;,Original,A3347710W,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Health care and social assistance (Q) ;  Current prices ;,Original,A3347751T,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Arts and recreation services (R) ;  Current prices ;,Original,A3347489W,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Other services (S) ;  Current prices ;,Original,A3347531R,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Ownership of dwellings ;  Current prices ;,Original,A2421015R,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+All industries ;  Current prices ;,Original,A2421016T,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Taxes less subsidies on products: Current prices ;,Original,A2421017V,Jun-90,Jun-20,31,$ Millions,DERIVED,Annual,6
+Statistical discrepancy (I): Current prices ;,Original,A2421018W,Jun-60,Jun-20,61,$ Millions,DERIVED,Annual,6
+Gross domestic product: Current prices ;,Original,A2420638T,Jun-60,Jun-20,61,$ Millions,DERIVED,Annual,6
+"Agriculture, forestry and fishing (A) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347196T,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Mining (B) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347197V,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Manufacturing (C) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347198W,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Electricity, gas, water and waste services (D) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347199X,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Construction (E) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347200W,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Wholesale trade (F) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347201X,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Retail trade (G) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347202A,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Accommodation and food services (H) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347203C,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Transport, postal and warehousing (I) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347204F,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Information media and telecommunications (J) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347205J,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Financial and insurance services (K) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347206K,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Rental, hiring and real estate services (L) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347207L,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Professional, scientific and technical services (M) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347208R,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Administrative and support services (N) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347209T,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Public administration and safety (O) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347210A,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Education and training (P) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347211C,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Health care and social assistance (Q) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347212F,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Arts and recreation services (R) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347213J,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Other services (S) ;  Percentage of GVA at basic prices, current prices ;",Original,A3347214K,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"Ownership of dwellings ;  Percentage of GVA at basic prices, current prices ;",Original,A2421036A,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
+"All industries ;  Percentage of GVA at basic prices, current prices ;",Original,A2421037C,Jun-90,Jun-20,31,proportion,DERIVED,Annual,6
