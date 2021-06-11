@@ -95,3 +95,19 @@ The Moving Average Convergence/Divergence strategy is rather popular and widely 
 The buy/sell signals are then based on the crossovers between the MACD and Signal line which we can then feed into our backtester. Finally computing a total portfolio profit of $547,148.55 from 6 months of trading and an initial investment of $100,000.
 
 ![Heatmap](/images/macd_heatmap.png)
+
+## Libraries
+* pandasdmx 
+*  requests 
+* pandas
+* re
+* scikitlearn (sklearn)
+* statsmodel
+* seaborn 
+* matplotlb
+* numpy
+* vectorbt
+* hvplot
+* yfinance
+* quantstats
+* Keras (Tensor Flow)
