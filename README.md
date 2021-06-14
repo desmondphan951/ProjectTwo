@@ -96,6 +96,12 @@ The buy/sell signals are then based on the crossovers between the MACD and Signa
 
 ![Heatmap](/images/macd_heatmap.png)
 
+## Code Submission Folder
+* [Code](/code)
+
+## Presentation
+* [Alpha Gold Presentation](/presentation/Alpha-Gold_presentation.pdf)
+
 ## Libraries
 * pandasdmx 
 *  requests 
